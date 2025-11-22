@@ -1,5 +1,7 @@
 let count = 0;
 
+
+
 const countDiv = document.getElementById("count");
 const increaseBtn = document.getElementById("increase");
 const decreaseBtn = document.getElementById("decrease");
